@@ -7,7 +7,6 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/MRK-YT",
     "repository": "https://github.com/dirty-byme/Pro-Auto-Filter-Bot",
     "success_url": "https://telegram.dog/mo_tech_yt/26",
     "env": {
