@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "repository": "https://github.com/dirty-byme/Pro-Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/mo_tech_yt/26",
+    "success_url": "https://t.me/share/url?url=https://t.me/m_oviezUP4",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
