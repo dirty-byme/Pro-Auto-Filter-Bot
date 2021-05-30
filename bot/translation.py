@@ -9,9 +9,7 @@ class Translation(object):
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
-<b><i><a href="https://t.me/Mo_Tech_YT">MoTechYT</a></i></b>
-</i>"""    
+"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -47,8 +45,6 @@ For More Details Click Help Button Below..
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Pro Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/MRk_YT">MRK_YT</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
